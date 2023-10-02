@@ -1,0 +1,17 @@
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\bin\Debug\net6.0-windows\TP 02.10.exe
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\bin\Debug\net6.0-windows\TP 02.10.deps.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\bin\Debug\net6.0-windows\TP 02.10.runtimeconfig.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\bin\Debug\net6.0-windows\TP 02.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\bin\Debug\net6.0-windows\TP 02.10.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.csproj.AssemblyReference.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP_02._10.Form1.resources
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.csproj.GenerateResource.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.AssemblyInfoInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.AssemblyInfo.cs
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.csproj.CoreCompileInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\refint\TP 02.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\TP 02.10.genruntimeconfig.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP 02.10\TP 02.10\obj\Debug\net6.0-windows\ref\TP 02.10.dll
